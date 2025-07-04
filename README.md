@@ -1,4 +1,4 @@
-# Electromagnetic (EM) wave
+# Animation of an electromagnetic (EM) wave
 
 A simple demonstration of how how electric (E) and magnetic (B) fields of a monochrome and linearly polarized EM wave behave.
 
