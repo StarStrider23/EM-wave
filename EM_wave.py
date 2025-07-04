@@ -78,6 +78,6 @@ def animate(i):
 
     return []
 
-animate = animation.FuncAnimation(fig, animate, frames=len(t), interval=100, repeat=True, cache_frame_data=False)
+animate = animation.FuncAnimation(fig, animate, frames=len(t), interval=100, repeat=True)
 
 plt.show()
